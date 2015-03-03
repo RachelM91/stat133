@@ -1,4 +1,9 @@
 {
     "login": "RachelM91", 
-    "url": "git@github.com:RachelM91/stat133.git"
+    "url": "git@github.com:RachelM91/stat133.git", 
+    "name": "yourName", 
+    "email": "email@berkeley.edu", 
+    "github_name": "github_name", 
+    "status": "enrolled", 
+    "grades": {}
 }

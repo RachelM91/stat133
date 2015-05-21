@@ -8,13 +8,30 @@
     "grades": {
         "hw4": {
             "note": "", 
-            "hash": "327cfe0690d209f9878c92d09388a09b129f2392", 
+            "hash": "3d65de99afdf7e608b2b63dd65ea40631253e87c", 
             "earned": 0, 
             "possible": 20, 
             "penalty": 0, 
             "parts": {
                 "hw4": {
                     "possible": 20, 
+                    "earned": 0
+                }
+            }
+        }, 
+        "hw2": {
+            "note": "", 
+            "hash": "4de741769eeb64ce9ffb6c2354fa09cdcb6dffef", 
+            "earned": 0, 
+            "possible": 31, 
+            "penalty": 0, 
+            "parts": {
+                "hw2_fig": {
+                    "possible": 20, 
+                    "earned": 0
+                }, 
+                "hw2": {
+                    "possible": 11, 
                     "earned": 0
                 }
             }
